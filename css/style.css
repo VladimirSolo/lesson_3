@@ -1,0 +1,53 @@
+@import "null.css";
+
+h1 {
+  color: brown;
+}
+h2 {
+  color: red;
+}
+a {
+  color: blue;
+}
+.text-1 {
+  color: green;
+}
+#block-1 {
+  color: blueviolet;
+}
+.text-2 {
+  color: orange;
+}
+.text-3 {
+  color: sienna;
+}
+.text-4 {
+  color: rgb(97, 97, 236);
+}
+.text-5 {
+  color: rgb(58, 14, 14);
+}
+#block-5 {
+  color: darkorange;
+}
+.text-6 {
+  color: yellowgreen;
+}
+.text-7 {
+  color: rgb(80, 198, 253);
+}
+.text-8 {
+  color: darkslateblue;
+}
+.text-9 {
+  color: saddlebrown;
+}
+.text-10 {
+  color: rgb(78, 47, 47);
+}
+.text-11 {
+  color: darkgoldenrod;
+}
+.text-12 {
+  color: rgb(16, 54, 90);
+}
